@@ -1,7 +1,7 @@
 import { Component, Prop } from '@stencil/core';
 
 @Component({
-  tag: 'my-component',
+  tag: 'my-test',
   styleUrl: 'my-component.css',
   shadow: true
 })
